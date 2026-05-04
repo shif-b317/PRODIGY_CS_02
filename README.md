@@ -1,4 +1,4 @@
-# PRODIGY_CS_02 - Image Encryption Tool
+# Image Encryption Tool
 
 ##  Description
 This project is a GUI-based image encryption and decryption tool developed using Python. It allows users to securely transform images using pixel-level manipulation with a user-defined key.
